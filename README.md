@@ -4,3 +4,4 @@ it's a  GUI application using PyQt4, open cv biblio and numpy .
 the maximum angle rotation for this function is 45° .
 this version content OCR procedure but we disable it .
 to run the project be sure  that you have already (numpy ,open cv ,pyqt). 
+run instruction : run the file Princ.py
